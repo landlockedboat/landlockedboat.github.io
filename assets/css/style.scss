@@ -1,0 +1,27 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.container-sm {
+    max-width: 550px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.user-mention, .team-mention {
+    font-weight: 600;
+    color: #24292e;
+    white-space: nowrap;
+}
+
+.headshot {
+    display: block;
+    width: 150px;
+    margin: auto;
+    border-radius: 150px;
+}
+
+.main-header {
+    text-align: center;
+}
