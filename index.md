@@ -107,3 +107,6 @@ Cool books i've read
 ### [The Design of Everyday Things](https://medium.com/@vikepic/the-design-of-everyday-things-c33971dbe8a5)
 > Essential book about product design by Donald A. Norman
 
+### Other
+
+<script src="https://www.goodreads.com/review/grid_widget/85978759.Victor's%20read%20book%20montage?cover_size=small&hide_link=true&hide_title=true&num_books=20&order=a&shelf=read&sort=date_added&widget_id=1535533312" type="text/javascript" charset="utf-8"></script>
