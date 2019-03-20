@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<h2>
+	{{ page.title }}
+</h2>
+
+{{ content }}
+
+<hr/>
+
+<div class="footer">
+	<a href="{{ site.url }}/blog">Back</a>
+	<span style="float: right;">
+		<i>{{ page.date | date: "%b %-d, %Y" }}</i>
+	</span>
+</div>

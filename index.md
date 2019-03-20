@@ -3,7 +3,7 @@
 
 ![Photo of me](headshot.jpeg "My face"){:.headshot}
 
-[LinkedIn](https://www.linkedin.com/in/victorenrique/) \| [Github](https://github.com/vikepic) \| [Blog](https://medium.com/@vikepic)
+[LinkedIn](https://www.linkedin.com/in/victorenrique/) \| [Github](https://github.com/vikepic) \| [Blog]({{ site.url }}/blog)
 {: style="text-align: center;"}
 
 Hi! Welcome to my portfolio.
