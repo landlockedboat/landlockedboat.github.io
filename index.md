@@ -12,7 +12,7 @@ I made this page in order to showcase my work on various projects and also as a 
 
 I am currently active on [Instragram](https://www.instagram.com/vike_pic/) :camera:, you can DM me at any time or send me an [email](mailto:valcazar96@gmail.com) :love_letter:. I'm also open to questions / coffee / mentoring / whatever.
 
-## About me
+## About me :seedling:
 
 I loved building things since i was a very little kid. My parents used to buy lots of [Playmobil](https://en.wikipedia.org/wiki/Playmobil) toys for me, and my brother and I practically built a world around them.
 
@@ -20,7 +20,9 @@ We imagined how they interacted between them and how would their homes and castl
 
 I think this had a great impact on me, and i used to daydream about demographic systems and civil architecture. When i discovered that i could build simulations of those thoughts on a machine, my fate was sealed - in a good way.
 
-## My games
+## My games :video_game:
+
+Videogames I've developed along the years, in no particular order
 
 ### More Cubes Please Thank You
 
@@ -98,7 +100,7 @@ Game made during the summer of 2015.
 
 Tiny cool game made at the [Tousand Gears](https://www.linkedin.com/company/thousand-gears/)' game jam with [Rubén Díaz](https://www.linkedin.com/in/rub%C3%A9n-d%C3%ADaz-58bb9813/){:.user-mention}.
 
-## Books
+## Books :books:
 Cool books i've read
 
 ### The art of game design
