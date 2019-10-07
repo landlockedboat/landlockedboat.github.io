@@ -14,11 +14,11 @@ I am currently active on [Instragram](https://www.instagram.com/vike_pic/) :came
 
 ## About me :seedling:
 
-I loved building things since i was a very little kid. My parents used to buy lots of [Playmobil](https://en.wikipedia.org/wiki/Playmobil) toys for me, and my brother and I practically built a world around them.
+I've been building stuff with a computer since 2013. I am a very creative person and I value a great deal user experience and design.
 
-We imagined how they interacted between them and how would their homes and castles be laid out. He used to worry a lot about aesthetics (he's now a graphic designer) and i cared much about the functionality of it. In short, he worried about flames and cool looking banners and I about wether if they had enough beds to sleep in.
+Although my professional background is more back-end oriented atm, i have considerable experience as a hobbyst game dev, and would love to work with you in videogame related adventures! :video_game:
 
-I think this had a great impact on me, and i used to daydream about demographic systems and civil architecture. When i discovered that i could build simulations of those thoughts on a machine, my fate was sealed - in a good way.
+Recently, I've switched to freelance remote work. I'm open to hear about your project as long as you're open to remote workers :smile:.
 
 ## My games :video_game:
 
