@@ -24,6 +24,10 @@ Recently, I've switched to freelance remote work. I'm open to hear about your pr
 
 Videogames I've developed along the years, in no particular order
 
+---
+
+{% include giphy_embed.html id="TJsDPfpCSb4PYNafBD" %}
+
 ### More Cubes Please Thank You
 
 Game made during the summer of 2016.
@@ -31,6 +35,8 @@ Game made during the summer of 2016.
 | [Play it](https://www.kongregate.com/games/wextia/more-cubes-please-thank-you) |
 
 ---
+
+{% include giphy_embed.html id="XeGfg1uuYLiqVrEYpM" %}
 
 ### Gravity Girl
 
@@ -40,6 +46,8 @@ Short game made for the ludum dare 38 with @GeriBP, [Rory Given](https://soundcl
 
 ---
 
+{% include giphy_embed.html id="L2fc46RoDJkLwCUolw" %}
+
 ### Rocket League
 
 Game made for the VJ subject at UPC-FIB.
@@ -47,6 +55,8 @@ Game made for the VJ subject at UPC-FIB.
 | [Play it](https://vikepic.github.io/rocket-league) |
 
 ---
+
+{% include giphy_embed.html id="PhCDe2dXobXjD9UtM7" %}
 
 ### WAV-R
 
