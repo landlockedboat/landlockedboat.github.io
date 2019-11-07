@@ -38,7 +38,7 @@ Game made during the summer of 2016.
 
 {% include giphy_embed.html id="XeGfg1uuYLiqVrEYpM" %}
 
-### Gravity Girl
+### Galactic Girl
 
 Short game made for the ludum dare 38 with @GeriBP, [Rory Given](https://soundcloud.com/rorygiven/){:.user-mention} and [Filipe de Andrade](https://ldjam.com/users/andrade){:.user-mention}.
 
