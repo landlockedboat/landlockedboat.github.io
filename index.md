@@ -10,7 +10,7 @@ Hi! Welcome to my portfolio.
 
 I made this page in order to showcase my work on various projects and also as a way for visitors to contact me with inquiries or feedback about them.
 
-I am currently active on [Instragram](https://www.instagram.com/vike_pic/) :camera:, you can DM me at any time or send me an [email](mailto:valcazar96@gmail.com) :love_letter:. I'm also open to questions / coffee / mentoring / whatever.
+I am currently active on [Instagram](https://www.instagram.com/vike_pic/) :camera:, you can DM me at any time or send me an [email](mailto:valcazar96@gmail.com) :love_letter:. I'm also open to questions / coffee / mentoring / whatever.
 
 ## About me :seedling:
 
